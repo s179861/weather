@@ -1,0 +1,10 @@
+{
+	"name": "rcelary/zoo",
+	"autoload": {
+		"psr-0": { "": "src/" }
+	},
+	"require": {
+		"php": ">=5.3.3",
+		"symfony/finder": "^2.7"
+	}
+}
